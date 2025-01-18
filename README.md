@@ -6,7 +6,7 @@ This is a Laravel-based task management application built as part of a PHP devel
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/php-developer-task.git
+   git clone https://github.com/abdulmueed01/php-developer-task.git
    ```
 
 2. Install dependencies:
